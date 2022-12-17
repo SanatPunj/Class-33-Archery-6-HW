@@ -1,1 +1,1 @@
-# Class-33-Archery-6-HW
+# Project Template 26
